@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{tese1}
+Z\'{e} Silva.
+\newblock {\em Exemplo do Ze}.
+\newblock Tese de Doutorado, UFPR, setembro de 1989.
+
+\bibitem{artigo1}
+Zeca Silva.
+\newblock Exemplo do zeca.
+\newblock {\em Revista de testes do Ze}, 2(73):183--199, 1999.
+
+\end{thebibliography}
